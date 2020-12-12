@@ -1,0 +1,54 @@
+{
+    "AX": {
+        "center_dac": null,
+        "center_signal": null,
+        "high_dac": null,
+        "high_resolving_power": null,
+        "high_signal": null,
+        "low_dac": null,
+        "low_resolving_power": null,
+        "low_signal": null,
+        "points": "QM9T9T5Vi2tAz1ggPcJFCkDPXEq9NgQdQM9gdD2RlVdAz2SfvgP6h0DPaMm8ynqQQM9s8z1QcBVAz3Eeu7X0nEDPdUg9zrRGQM95crxzzKRAz32dvIou4EDPgce9hSmhQM+F8bw6Lf9Az4ocPDfM8kDPjkY+DUpJQM+ScD4SxzZAz5abPbqkZEDPmsU+Bs85QM+e7z2mejtAz6MaPbtfoEDPp0Q+KRlOQM+rbj5adf1Az6+ZPcuRwkDPs8M+RBPxQM+37j5i4cBAz7wYPodwpUDPwEI+hvFjQM/EbT6ZjFNAz8iXPicqIEDPzME+D5cCQM/Q7D4mpExAz9UWPjVHykDP2UA+l74HQM/daz4Qop1Az+GVPoIGQkDP5b8+aTYIQM/p6j1Eh/pAz+4UPbnpJ0DP8j49jvjEQM/2aT3Vz1hAz/qTPfEV6UDP/r0+HHK7QNAC6D2pgdxA0AcSPNDYG0DQCzw+KF3wQNAPZzwvcrFA0BORvXuCfEDQF7y8k8k3QNAb5j2cPTZA0CAQvJ8PEEDQJDu9UBqCQNAoZT0OA+pA0CyPPaZEvUDQMLo8PaW7QNA05L0LcB5A0DkOPLxgu0DQPTk8mov+QNBBYzyO2j1A0EWNviJLnkDQSbg8mbYn",
+        "resolution": null
+    },
+    "CDD": {
+        "center_dac": null,
+        "center_signal": null,
+        "high_dac": null,
+        "high_resolving_power": null,
+        "high_signal": null,
+        "low_dac": null,
+        "low_resolving_power": null,
+        "low_signal": null,
+        "points": "QM9T9bV+h2BAz1ggtX6HYEDPXEq1fodgQM9gdLV+h2BAz2SftX6HYEDPaMm1fodgQM9s8zooZtBAz3EeOihm0EDPdUg6KGbQQM95cjooZtBAz32dtX6HYEDPgcc6qIaiQM+F8Tsolo1Az4ocO6ieh0DPjkY70sgoQM+ScDwTjbhAz5abPDMs9EDPmsU8qKScQM+e7zyjX2ZAz6MaPQEen0DPp0Q83Vi9QM+rbj0LqQ5Az6+ZPPz4B0DPs8M83Vi9QM+37jzybZlAz7wYPOKd80DPwEI9A8E7QM/EbT0GY9dAz8iXPOfjKkDPzME9AR6fQM/Q7DzybZlAz9UWPRt4tkDP2UA9A8E7QM/dazzYE4ZAz+GVPN1YvUDP5b882BOGQM/p6jzybZlAz+4UPQPBO0DP8j49C6kOQM/2aTzinfNAz/qTPJOPxUDP/r08yEPiQNAC6DyTj8VA0AcSPEhByEDQCzw8qKScQNAPZzvSyChA0BORO72zV0DQF7w7k4m2QNAb5jsolo1A0CAQtX6HYEDQJDu1fodgQNAoZbV+h2BA0CyPtX6HYEDQMLq1fodgQNA05LV+h2BA0DkOtX6HYEDQPTm1fodgQNBBY7V+h2BA0EWNtX6HYEDQSbi1fodg",
+        "resolution": null
+    },
+    "H1": {
+        "center_dac": 6.49372819639279,
+        "center_signal": 47.12050336843605,
+        "high_dac": 6.502445631262529,
+        "high_resolving_power": 1461.3154819821193,
+        "high_signal": 9.260229550385167,
+        "low_dac": 6.485010761523051,
+        "low_resolving_power": 1541.1049380952336,
+        "low_signal": 9.343677343178346,
+        "points": "QM9T9byMlz9Az1ggPJ598EDPXEo9/EwlQM9gdL3y8AVAz2SfvpcF5EDPaMk+LrVOQM9s876S5bRAz3EePkIh9kDPdUg/nl3wQM95ckAZ4L5Az32dQF0bjEDPgcdAsBlGQM+F8UEm4UlAz4ocQYqBLEDPjkZByCSoQM+ScEIW5bJAz5abQiekk0DPmsVCMXn1QM+e70I2WyxAz6MaQjm1qkDPp0RCOl4qQM+rbkI8X0xAz6+ZQjoybEDPs8NCOqu3QM+37kI8CERAz7wYQjt5jUDPwEJCO4d5QM/EbUI7P99Az8iXQjteNEDPzMFCPHcrQM/Q7EI75HZAz9UWQjuY4EDP2UBCOx0RQM/da0I6b5BAz+GVQjqS3EDP5b9COv4+QM/p6kI7UMdAz+4UQjo150DP8j5COiAIQM/2aUI0bSpAz/qTQjEeM0DP/r1CK/m8QNAC6EIavfxA0AcSQgAck0DQCzxBv7Y8QNAPZ0F1GRdA0BORQRy0GEDQF7xAq4JVQNAb5kAe3eFA0CAQPucdJ0DQJDs+m1fzQNAoZT6DTatA0CyPPo0ENkDQMLo+WXFHQNA05L6Pf+RA0DkOvsCFdEDQPTm94m6CQNBBY72gaCBA0EWNvYQ/l0DQSbg9Ezic",
+        "resolution": 325.3263423694815
+    },
+    "L2": {
+        "center_dac": null,
+        "center_signal": null,
+        "high_dac": null,
+        "high_resolving_power": null,
+        "high_signal": null,
+        "low_dac": null,
+        "low_resolving_power": null,
+        "low_signal": null,
+        "points": "QM9T9b3T5mVAz1ggPV/fp0DPXEo9w7ShQM9gdLydgh9Az2Sfvf6IOUDPaMm+NCtIQM9s8z4AdYpAz3EePRlnokDPdUg9cAL5QM95cryWKNlAz32dPJ1RhUDPgce91qdMQM+F8b4B+nZAz4ocvPtnM0DPjka98rJbQM+ScDyjCURAz5abPiZINEDPmsW9WO2dQM+e77127LVAz6Mava7ge0DPp0Q9EaTMQM+rbr2SAjtAz6+ZvPr+skDPs8O9FSxgQM+37r05gEVAz7wYPR2xo0DPwEI81HSiQM/EbT1oC3FAz8iXOr78d0DPzMG9Wo+JQM/Q7L4J6QBAz9UWPF/430DP2UC9wGuZQM/daz1b/hFAz+GVvJSGyUDP5b+9rKICQM/p6r4g4itAz+4UvTU3IkDP8j68/KC1QM/2ab4kARJAz/qTvO3ukEDP/r29oojQQNAC6L08xC5A0AcSPhERpEDQCzy9uPmHQNAPZ7yt1qxA0BORvaqx30DQF7w9k0d4QNAb5r3xKstA0CAQvNQ2p0DQJDu9cDDgQNAoZT1YhRRA0CyPvLu4E0DQMLq9hsltQNA05L1CRsJA0DkOPd1agUDQPTm8ielbQNBBYz0ExulA0EWNPNQME0DQSbi8WqoR",
+        "resolution": null
+    },
+    "fmt": ">ff",
+    "interpolation": "cubic",
+    "reference_detector": "H1",
+    "reference_isotope": "Ar40"
+}
